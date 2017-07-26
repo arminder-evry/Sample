@@ -1,0 +1,9 @@
+D:\GitHub\Microservices-ASPNET-Core-Docker-Course\Microservices-ASPNET-Core-Docker-Course\Labs\Working with ASP.NET Core Images and Containers\End\bin\Debug\netcoreapp1.1\ASPNET-Core-And-Docker.deps.json
+D:\GitHub\Microservices-ASPNET-Core-Docker-Course\Microservices-ASPNET-Core-Docker-Course\Labs\Working with ASP.NET Core Images and Containers\End\bin\Debug\netcoreapp1.1\ASPNET-Core-And-Docker.runtimeconfig.json
+D:\GitHub\Microservices-ASPNET-Core-Docker-Course\Microservices-ASPNET-Core-Docker-Course\Labs\Working with ASP.NET Core Images and Containers\End\bin\Debug\netcoreapp1.1\ASPNET-Core-And-Docker.runtimeconfig.dev.json
+D:\GitHub\Microservices-ASPNET-Core-Docker-Course\Microservices-ASPNET-Core-Docker-Course\Labs\Working with ASP.NET Core Images and Containers\End\bin\Debug\netcoreapp1.1\ASPNET-Core-And-Docker.dll
+D:\GitHub\Microservices-ASPNET-Core-Docker-Course\Microservices-ASPNET-Core-Docker-Course\Labs\Working with ASP.NET Core Images and Containers\End\bin\Debug\netcoreapp1.1\ASPNET-Core-And-Docker.pdb
+D:\GitHub\Microservices-ASPNET-Core-Docker-Course\Microservices-ASPNET-Core-Docker-Course\Labs\Working with ASP.NET Core Images and Containers\End\obj\Debug\netcoreapp1.1\ASPNET-Core-And-Docker.AssemblyInfo.cs
+D:\GitHub\Microservices-ASPNET-Core-Docker-Course\Microservices-ASPNET-Core-Docker-Course\Labs\Working with ASP.NET Core Images and Containers\End\obj\Debug\netcoreapp1.1\ASPNET-Core-And-Docker.dll
+D:\GitHub\Microservices-ASPNET-Core-Docker-Course\Microservices-ASPNET-Core-Docker-Course\Labs\Working with ASP.NET Core Images and Containers\End\obj\Debug\netcoreapp1.1\ASPNET-Core-And-Docker.pdb
+D:\GitHub\Microservices-ASPNET-Core-Docker-Course\Microservices-ASPNET-Core-Docker-Course\Labs\Working with ASP.NET Core Images and Containers\End\obj\Debug\netcoreapp1.1\ASPNET-Core-And-Docker.csprojResolveAssemblyReference.cache
