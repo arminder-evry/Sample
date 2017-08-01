@@ -10661,10 +10661,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\Microservices-ASPNET-Core-Docker-Course\\Microservices-ASPNET-Core-Docker-Course\\Labs\\Working with ASP.NET Core Images and Containers\\End\\ASPNET-Core-And-Docker.csproj",
+      "projectUniqueName": "D:\\New folder (2)\\Sample\\ASPNET-Core-And-Docker.csproj",
       "projectName": "ASPNET-Core-And-Docker",
-      "projectPath": "D:\\GitHub\\Microservices-ASPNET-Core-Docker-Course\\Microservices-ASPNET-Core-Docker-Course\\Labs\\Working with ASP.NET Core Images and Containers\\End\\ASPNET-Core-And-Docker.csproj",
-      "outputPath": "D:\\GitHub\\Microservices-ASPNET-Core-Docker-Course\\Microservices-ASPNET-Core-Docker-Course\\Labs\\Working with ASP.NET Core Images and Containers\\End\\obj\\",
+      "projectPath": "D:\\New folder (2)\\Sample\\ASPNET-Core-And-Docker.csproj",
+      "outputPath": "D:\\New folder (2)\\Sample\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
@@ -10709,7 +10709,7 @@
           },
           "Microsoft.EntityFrameworkCore.SqlServer": {
             "target": "Package",
-            "version": "[1.1.2, )"
+            "version": "1.1.2"
           },
           "Microsoft.EntityFrameworkCore.SqlServer.Design": {
             "target": "Package",

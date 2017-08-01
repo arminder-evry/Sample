@@ -7,3 +7,12 @@ D:\GitHub\Microservices-ASPNET-Core-Docker-Course\Microservices-ASPNET-Core-Dock
 D:\GitHub\Microservices-ASPNET-Core-Docker-Course\Microservices-ASPNET-Core-Docker-Course\Labs\Working with ASP.NET Core Images and Containers\End\obj\Debug\netcoreapp1.1\ASPNET-Core-And-Docker.dll
 D:\GitHub\Microservices-ASPNET-Core-Docker-Course\Microservices-ASPNET-Core-Docker-Course\Labs\Working with ASP.NET Core Images and Containers\End\obj\Debug\netcoreapp1.1\ASPNET-Core-And-Docker.pdb
 D:\GitHub\Microservices-ASPNET-Core-Docker-Course\Microservices-ASPNET-Core-Docker-Course\Labs\Working with ASP.NET Core Images and Containers\End\obj\Debug\netcoreapp1.1\ASPNET-Core-And-Docker.csprojResolveAssemblyReference.cache
+D:\New folder (2)\Sample\bin\Debug\netcoreapp1.1\ASPNET-Core-And-Docker.deps.json
+D:\New folder (2)\Sample\bin\Debug\netcoreapp1.1\ASPNET-Core-And-Docker.runtimeconfig.json
+D:\New folder (2)\Sample\bin\Debug\netcoreapp1.1\ASPNET-Core-And-Docker.runtimeconfig.dev.json
+D:\New folder (2)\Sample\bin\Debug\netcoreapp1.1\ASPNET-Core-And-Docker.dll
+D:\New folder (2)\Sample\bin\Debug\netcoreapp1.1\ASPNET-Core-And-Docker.pdb
+D:\New folder (2)\Sample\obj\Debug\netcoreapp1.1\ASPNET-Core-And-Docker.csprojResolveAssemblyReference.cache
+D:\New folder (2)\Sample\obj\Debug\netcoreapp1.1\ASPNET-Core-And-Docker.AssemblyInfo.cs
+D:\New folder (2)\Sample\obj\Debug\netcoreapp1.1\ASPNET-Core-And-Docker.dll
+D:\New folder (2)\Sample\obj\Debug\netcoreapp1.1\ASPNET-Core-And-Docker.pdb

@@ -1,0 +1,9 @@
+---
+applications:
+- name: test
+  random-route: false
+  memory: 1890M
+  env:
+        DOTNET_CLI_TELEMETRY_OPTOUT: 1
+        DOTNET_SKIP_FIRST_TIME_EXPERIENCE: true
+        CACHE_NUGET_PACKAGES: false
